@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc196784-b827-4557-9790-0722b6b026ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Robotica Brazo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cobot/rodri.py" beforeDir="false" afterPath="$PROJECT_DIR$/cobot/cobot_connector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rodri.py" beforeDir="false" afterPath="$PROJECT_DIR$/rodri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/A_cartoon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/A_marcador.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/Captured Frame with Contours_screenshot_02.09.2024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/contour_to_coordinate_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/vector/contour_to_coordinate_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/formitas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/image_drawer.py" beforeDir="false" afterPath="$PROJECT_DIR$/vector/image_drawer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cobot/cobot_connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/cobot/cobot_connector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +40,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +63,7 @@
       <updated>1724697965985</updated>
       <workItem from="1724697967315" duration="2236000" />
       <workItem from="1725293997374" duration="38000" />
-      <workItem from="1744882810779" duration="1087000" />
+      <workItem from="1744882810779" duration="2710000" />
     </task>
     <servers />
   </component>
