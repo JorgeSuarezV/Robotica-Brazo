@@ -38,10 +38,13 @@ python app/server.py
 
 Then send an image to the appropriate endpoint.
 
-## Attachments
+## Demo
 
 
-[Watch the demo](./live_demo.mp4)
+[File in project](./live_demo.mp4)
 
+or here
+
+[Google photos link](https://photos.app.goo.gl/iE7DRAco7QvLQTo17)
 
 
