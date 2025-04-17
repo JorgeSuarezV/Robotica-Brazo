@@ -3,7 +3,7 @@ import socket
 import time
 import numpy as np
 
-# ESTE NO LO USAMOS, EL QUE USAMOS ESTA EN cobot/rodri.py
+# ESTE NO LO USAMOS, EL QUE USAMOS ESTA EN cobot/cobot_connector.py
 
 
 #La siguiente función transforma de radianes a grados para poder insertar las coordenadas indicadas en el teach pendant directamente en las

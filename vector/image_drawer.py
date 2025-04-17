@@ -1,7 +1,7 @@
 import cv2
 import cv2.ximgproc as xipg
 
-from cobot.rodri import draw
+from cobot.cobot_connector import draw
 from vector.reduced_coords import reduced_coords, approximate_coords
 
 
