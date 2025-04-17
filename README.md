@@ -40,10 +40,8 @@ Then send an image to the appropriate endpoint.
 
 ## Attachments
 
-You can include a demo video by uploading it to a service like YouTube, or placing it in the repository and linking it like this:
 
-<video src="./live_demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo](./live_demo.mp4)
+
 
 
